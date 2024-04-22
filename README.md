@@ -40,6 +40,6 @@ License
 The "MP3 Player Application with Tkinter" repository is open-source and licensed under the GNU License. You are free to use, modify, and distribute the code according to the terms of the license.
 
 
-![Mp3-player-tkinter](mp3 player images/mp3_player_gui-1.PNG)
-![Mp3-player-tkinter](mp3 player images/mp3_player_gui-2.PNG)
-![Mp3-player-tkinter](mp3 player images/mp3_player_gui-3.PNG)
+![Mp3-player-tkinter](mp3playerimages/mp3_player_gui-1.PNG)
+![Mp3-player-tkinter](mp3playerimages/mp3_player_gui-2.PNG)
+![Mp3-player-tkinter](mp3playerimages/mp3_player_gui-3.PNG)
